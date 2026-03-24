@@ -1,1 +1,1 @@
-# video-model-exploration
+# data-curate-exploration
