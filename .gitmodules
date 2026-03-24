@@ -1,0 +1,12 @@
+[submodule "lingbot-world"]
+	path = lingbot-world
+	url = https://github.com/Robbyant/lingbot-world.git
+[submodule "Curator"]
+	path = Curator
+	url = https://github.com/NVIDIA-NeMo/Curator.git
+[submodule "cosmos-curate"]
+	path = cosmos-curate
+	url = https://github.com/nvidia-cosmos/cosmos-curate.git
+[submodule "HY-WorldPlay"]
+	path = HY-WorldPlay
+	url = https://github.com/Tencent-Hunyuan/HY-WorldPlay.git
